@@ -1,0 +1,87 @@
+#: locale=en
+
+## E-Learning
+
+### Question Screen
+quizQuestion_3DCCED68_2AA6_7164_41A9_6E93E23E9594.ok = OK
+
+### Report Screen
+quizScore_3DC2CD69_2AA6_7164_41B2_DCC8FC7C7F76.title = - SCORE -
+quizScore_3DC2CD69_2AA6_7164_41B2_DCC8FC7C7F76.completion = Completed
+quizScore_3DC2CD69_2AA6_7164_41B2_DCC8FC7C7F76.questionsCorrect = Correct
+quizScore_3DC2CD69_2AA6_7164_41B2_DCC8FC7C7F76.downloadCSV = Download .csv
+quizScore_3DC2CD69_2AA6_7164_41B2_DCC8FC7C7F76.questionsIncorrect = Incorrect
+quizScore_3DC2CD69_2AA6_7164_41B2_DCC8FC7C7F76.items = Items Found
+quizScore_3DC2CD69_2AA6_7164_41B2_DCC8FC7C7F76.questions = Questions
+quizScore_3DC2CD69_2AA6_7164_41B2_DCC8FC7C7F76.repeat = Repeat
+quizScore_3DC2CD69_2AA6_7164_41B2_DCC8FC7C7F76.submitToLMS = Submit
+quizScore_3DC2CD69_2AA6_7164_41B2_DCC8FC7C7F76.elapsedTime = Time
+
+### Score Name
+score1.label = Score 1
+
+### Timeout Screen
+quizTimeout_3DCCFD68_2AA6_7164_41B1_526B72230706.title = - TIMEOUT -
+quizTimeout_3DCCFD68_2AA6_7164_41B1_526B72230706.repeat = Repeat
+quizTimeout_3DCCFD68_2AA6_7164_41B1_526B72230706.score = View Score
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_0F9B24AE_39C2_7AE9_4169_ACD0B0190F6C.url = media/map_1A9A2ABC_165E_B3DC_4191_5BA75658F290_en_0.webp
+imlevel_0F9B34AE_39C2_7AE9_41A7_CC0E26EE1405.url = media/map_1A9A2ABC_165E_B3DC_4191_5BA75658F290_en_1.webp
+imlevel_0F9AD4AE_39C2_7AE9_4184_0E24A4D2F45F.url = media/map_1A9A2ABC_165E_B3DC_4191_5BA75658F290_en_2.webp
+imlevel_0F9AE4AE_39C2_7AE9_41C3_E9ECD4897590.url = media/map_1A9A2ABC_165E_B3DC_4191_5BA75658F290_en_3.webp
+imlevel_0F9AF4AF_39C2_7AE7_41A4_03A4B2F593F8.url = media/map_1A9A2ABC_165E_B3DC_4191_5BA75658F290_en_4.webp
+
+### Title
+video_007A862A_3946_39E9_41B5_851370719055.label = 0824(1)(1)
+map_1A9A2ABC_165E_B3DC_4191_5BA75658F290.label = 125
+panorama_F2EFCD5B_FCAC_7FC2_4163_00D7BC164018.label = CT SCAN
+panorama_F1A7FC20_FCAC_5D7E_41D6_1407C4B3F940.label = MRI
+panorama_03BCB3E9_1E63_B167_41B4_9CE8B009288C.label = PANO_20260731_135933_2 (1)
+model_0A34A981_3BA1_E221_4189_DB976CC2FC68.label = brick building 3d model
+panorama_F1A75ECD_FCAC_BAC1_41DA_029A668D663F.label = آزمایشگاه
+panorama_1DF5AED0_3AC6_06B9_41B5_9673A12FB281.label = آسانسور طبقه چهارم
+panorama_03D0E29D_1E61_93DF_41B9_6131EF59B639.label = آسانسور همکف
+panorama_1DF157EA_3AC2_0669_41B9_5A8831D675F7.label = اتاق vip
+panorama_1DF5CBDA_3AC6_0EA9_41C6_C2CD05497930.label = اتاق بازی
+panorama_036CE571_3AC2_3A7B_41B2_2002C9432B7C.label = بخش اطفال
+panorama_1DF5C313_3AC6_1FBF_41C2_02D4F7FFC176.label = بخش جراحی
+panorama_1BBD7F23_07A4_D677_4142_71A7044FA045.label = بستری اورژانس
+panorama_F1B8B9CE_FCAC_66C3_41D5_8D3A4416CA8B.label = تریاژ
+panorama_05B3D3A5_1EA1_91EF_41A4_B896CB52F107.label = رادیولوژی
+panorama_F1B82BF0_FCAD_BADE_41CC_C863FB3A2F95.label = راهنمای خطوط
+panorama_F1B83DF9_FCAD_DECE_41D5_477649F40F4A.label = روبروی آزمایشگاه
+panorama_F1B85013_FCAD_E541_41BA_228106CD266F.label = روبروی دپارتمان
+panorama_F1B9FABC_FCAD_E546_41C1_55AA43113FF2.label = روبروی رادیولوژی
+panorama_F1B9A029_FCAD_A541_41DC_82EF172DC57C.label = روبروی کتابخونه
+panorama_1DF6447F_3AC6_3A67_41BD_CEF2DE403FB7.label = رگ گیری اطفال
+panorama_F1B84249_FCAC_65C1_41DE_F943E9D4FE8A.label = سونوگرافی
+panorama_F1B8DB4E_FCAC_BBC2_41D4_057B0B9D316E.label = ماموگرافی
+panorama_1DF5A69B_3AC6_06AF_4198_3874A35C8CF2.label = مراقبت های ویژه کودکان
+panorama_F1B8106E_FCAC_A5C3_41B6_2E968CB8E02C.label = نمازخانه
+panorama_F1B8329C_FCAC_E547_41BE_2C5C02ECFEE7.label = ورودی اصلی
+panorama_1DF6F87F_3AC6_0A67_41B5_A5BCFBC4D718.label = ورودی اطفال
+panorama_F1B86038_FCAC_E54E_41CE_2C617EF0C32F.label = ورودی اورژانس
+panorama_1DF56AD4_3AC6_0EB9_4164_7987B86BCD23.label = ورودی جراحی
+panorama_02996F2B_1E63_92FB_41B8_219798FD0D59.label = ورودی رادیولوژی
+panorama_F1B877E6_FCAC_EAC2_41E7_144DEA7C77FC.label = ورودی کلینیک
+panorama_F1B8CDA1_FCAC_BF41_41E0_9479F72DF4E2.label = پذیرش1
+panorama_F1B8A723_FCAC_AB41_41E5_10B8993346A4.label = پذیرش2
+panorama_F1B85878_FCAC_65CE_41E7_E52C0424CFF6.label = کتابخونه
+
+### Video
+videolevel_0F981516_39C2_7BB9_4190_894EE2B60C27.url = media/video_007A862A_3946_39E9_41B5_851370719055_en.mp4
+videolevel_0F981516_39C2_7BB9_4190_894EE2B60C27.posterURL = media/video_007A862A_3946_39E9_41B5_851370719055_poster_en.jpg
+
+### Video Subtitles
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 4
